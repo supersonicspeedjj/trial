@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.atishay_jain.snacka8384c0e9ede40c3a681a7578e03e7c8"
     },
     "web": {
       "favicon": "./assets/favicon.png"
