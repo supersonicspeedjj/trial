@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from \"./PermissionsInterface\";","map":{"version":3,"names":[],"sources":["C:\\Users\\Lenovo\\Downloads\\meme-generator-main\\meme-generator-main\\node_modules\\expo-modules-core\\src\\index.ts"],"sourcesContent":["export * from './PermissionsInterface';\n"],"mappings":"AAAA"},"metadata":{},"sourceType":"module","externalDependencies":[]}
